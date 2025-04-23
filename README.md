@@ -1,6 +1,8 @@
 # Queue Accepter
 
-A lightweight GUI application for automatically detecting and clicking a game's “Accept” button (e.g., LoL queue pop), using ORB feature matching. Optionally notifies you on Discord when a queue pops.
+A lightweight GUI application for automatically detecting and clicking a game's “Accept” button (e.g., LoL queue pop ), using ORB feature matching. Optionally notifies you on Discord when a queue pops. Has humanizing features so other applications don't get scared.
+
+Made for friends since I don't really play :)
 
 ---
 
@@ -21,7 +23,7 @@ A lightweight GUI application for automatically detecting and clicking a game's 
      "discord_user_id": ""               # Optional: your Discord user ID
    }
    ```
-4. **Populate templates**: place one or more button screenshots (`*.png`) in the `templates/` folder.  
+4. **Populate templates**: place one or more button screenshots (`*.png`) in the `templates/` folder. 
 5. **Run the app**:
    ```bash
    python queue_auto_accept.py
