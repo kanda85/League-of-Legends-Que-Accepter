@@ -1,0 +1,12 @@
+{
+  "templates_folder": "templates",
+  "raw_roi": [
+    0.27109375,
+    0.2625,
+    0.475,
+    0.5611111111111111
+  ],
+  "min_matches": 9,
+  "discord_webhook_url": "https://discord.com/api/webhooks/11111111111111111111111",
+  "discord_user_id": "111111111111111111"
+}
